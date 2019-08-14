@@ -3,7 +3,7 @@
 
 ## 目录结构
 
-```yml
+```yaml
 Linux Command
 	--fileManagement 文件管理命令
 	--diskManagement 磁盘管理命令
