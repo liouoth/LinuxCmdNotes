@@ -3,18 +3,18 @@
 
 ## 目录结构
 
-```yaml
+```python
 Linux Command
-	--fileManagement 文件管理命令
-	--diskManagement 磁盘管理命令
-	--documentEdit 文档编辑命令
-	--fileTranslate 文件传输命令
-	--diskDefense 磁盘维护命令
-	--NetworkCommunication 网络通讯命令
-	--systemManagement 系统管理命令
-	--systemSetting 系统管理命令
-	--backupCompression 备份压缩命令
-	--deviceManagement 设备管理命令
+├──fileManagement 文件管理命令
+├──diskManagement 磁盘管理命令
+├──documentEdit 文档编辑命令
+├──fileTranslate 文件传输命令
+├──diskDefense 磁盘维护命令
+├──networkCommunication 网络通讯命令
+├──systemManagement 系统管理命令
+├──systemSetting 系统管理命令
+├──backupCompression 备份压缩命令
+├──deviceManagement 设备管理命令
 ```
 
 ## 详情解析
