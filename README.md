@@ -32,3 +32,12 @@ Linux Command
   【常用】cd 、mkdir 、ls 、mount 、 umout 、pwd
 
   【描述】主要是对于磁盘内容以及磁盘设备的操作
+
+
+
+### 	[systemSetting 系统管理命令](./systemSetting)
+
+​		【常用】id 、ps 、kill
+
+​		【描述】主要是系统管理，比如进程、用户
+
